@@ -1777,3 +1777,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "/public/gsoc/flutter-more-clients" 
   status = 301 
   force = true
+
+[[redirects]]
+  from = "/tf/fdroid/repo" 
+  to = "https://ccextractor.github.io/taskwarrior-flutter/repo/" 
+  status = 301 
+  force = true
